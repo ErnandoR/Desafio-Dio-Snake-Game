@@ -1,1 +1,2 @@
-# Desafio-Dio-Snake-Game
+# Desafio Dio SnakeGame
+Desafio bootcamp Dio
